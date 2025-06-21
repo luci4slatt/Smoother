@@ -29,5 +29,7 @@ See the included README for step-by-step instructions.
 
 ---
 
-**Created by [luci4slatt]([https://github.com/luci4slatt](https://discord.gg/3vnf5enUZC))**  
+**Created by [luci4slatt]**
 Feel free to fork, modify, or suggest improvements!
+
+https://discord.gg/3vnf5enUZC
